@@ -1,0 +1,3 @@
+C:\SF\acs-simulator-demo\acs-demo\acs-demo\obj\x64\Debug\acs_demo.sfprojResolveAssemblyReference.cache
+C:\SF\acs-simulator-servicefabric\acs-demo\acs-demo\obj\x64\Debug\acs_demo.sfprojResolveAssemblyReference.cache
+C:\SF\acs-simulator-servicefabric\service-fabric\acs-demo\obj\x64\Debug\acs_demo.sfprojResolveAssemblyReference.cache

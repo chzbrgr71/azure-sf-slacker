@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "acs_demo", "acs-demo\acs_demo.sfproj", "{BB7CC2B5-7E5C-4E25-8F21-2E7813B501A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simulator", "simulator\simulator.csproj", "{90F64C9E-B854-479D-8E1A-AE04843EF030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "slacker", "slacker\slacker.csproj", "{513EBEEE-4CD7-483E-B8A8-C3D34F91881E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "retriever", "retriever\retriever.csproj", "{7BD1E4DF-3E42-4294-B0CE-E0C70CA7C503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB7CC2B5-7E5C-4E25-8F21-2E7813B501A8}.Debug|x64.ActiveCfg = Debug|x64
+		{BB7CC2B5-7E5C-4E25-8F21-2E7813B501A8}.Debug|x64.Build.0 = Debug|x64
+		{BB7CC2B5-7E5C-4E25-8F21-2E7813B501A8}.Debug|x64.Deploy.0 = Debug|x64
+		{BB7CC2B5-7E5C-4E25-8F21-2E7813B501A8}.Release|x64.ActiveCfg = Release|x64
+		{BB7CC2B5-7E5C-4E25-8F21-2E7813B501A8}.Release|x64.Build.0 = Release|x64
+		{BB7CC2B5-7E5C-4E25-8F21-2E7813B501A8}.Release|x64.Deploy.0 = Release|x64
+		{90F64C9E-B854-479D-8E1A-AE04843EF030}.Debug|x64.ActiveCfg = Debug|x64
+		{90F64C9E-B854-479D-8E1A-AE04843EF030}.Debug|x64.Build.0 = Debug|x64
+		{90F64C9E-B854-479D-8E1A-AE04843EF030}.Release|x64.ActiveCfg = Release|x64
+		{90F64C9E-B854-479D-8E1A-AE04843EF030}.Release|x64.Build.0 = Release|x64
+		{513EBEEE-4CD7-483E-B8A8-C3D34F91881E}.Debug|x64.ActiveCfg = Debug|x64
+		{513EBEEE-4CD7-483E-B8A8-C3D34F91881E}.Debug|x64.Build.0 = Debug|x64
+		{513EBEEE-4CD7-483E-B8A8-C3D34F91881E}.Release|x64.ActiveCfg = Release|x64
+		{513EBEEE-4CD7-483E-B8A8-C3D34F91881E}.Release|x64.Build.0 = Release|x64
+		{7BD1E4DF-3E42-4294-B0CE-E0C70CA7C503}.Debug|x64.ActiveCfg = Debug|x64
+		{7BD1E4DF-3E42-4294-B0CE-E0C70CA7C503}.Debug|x64.Build.0 = Debug|x64
+		{7BD1E4DF-3E42-4294-B0CE-E0C70CA7C503}.Release|x64.ActiveCfg = Release|x64
+		{7BD1E4DF-3E42-4294-B0CE-E0C70CA7C503}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

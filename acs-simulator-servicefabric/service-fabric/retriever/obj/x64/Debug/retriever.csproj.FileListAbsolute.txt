@@ -1,0 +1,17 @@
+C:\SF\acs-simulator-demo\acs-demo\retriever\bin\x64\Debug\retriever.exe.config
+C:\SF\acs-simulator-demo\acs-demo\retriever\bin\x64\Debug\retriever.exe
+C:\SF\acs-simulator-demo\acs-demo\retriever\bin\x64\Debug\retriever.pdb
+C:\SF\acs-simulator-demo\acs-demo\retriever\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+C:\SF\acs-simulator-demo\acs-demo\retriever\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\SF\acs-simulator-demo\acs-demo\retriever\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\SF\acs-simulator-demo\acs-demo\retriever\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\SF\acs-simulator-demo\acs-demo\retriever\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+C:\SF\acs-simulator-demo\acs-demo\retriever\bin\x64\Debug\System.Fabric.dll
+C:\SF\acs-simulator-demo\acs-demo\retriever\bin\x64\Debug\ServiceFabricServiceModel.dll
+C:\SF\acs-simulator-demo\acs-demo\retriever\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+C:\SF\acs-simulator-demo\acs-demo\retriever\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+C:\SF\acs-simulator-demo\acs-demo\retriever\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+C:\SF\acs-simulator-demo\acs-demo\retriever\bin\x64\Debug\System.Fabric.xml
+C:\SF\acs-simulator-demo\acs-demo\retriever\bin\x64\Debug\en-us\Microsoft.ServiceFabric.Internal.Strings.resources.dll
+C:\SF\acs-simulator-demo\acs-demo\retriever\obj\x64\Debug\retriever.exe
+C:\SF\acs-simulator-demo\acs-demo\retriever\obj\x64\Debug\retriever.pdb

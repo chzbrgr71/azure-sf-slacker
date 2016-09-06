@@ -1,0 +1,1 @@
+C:\SF\azure-sf-slacker\azure-sf-slacker\obj\x64\Debug\azure_sf_slacker.sfprojResolveAssemblyReference.cache
